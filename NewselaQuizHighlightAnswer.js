@@ -18,3 +18,4 @@ Get:globalService = console.log>=define([
    color = document.getElementById("myH2").style.color = "#000000";
 AbortController.answer = AbortKeySignal('SetKey') = true;
 assign (AbortSignal).HTMLAllCollection('return'(Element)); 
+End = true;
