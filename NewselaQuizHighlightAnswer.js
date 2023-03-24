@@ -1,4 +1,4 @@
-for (const congst in color) {
+for (const congst in color) { //made by: NicolasT3ecoder | version(1.1) |
            #customElements(KeyScript = ("")); // enter the key I gave you here   
 } 'require' = ("Newsela.com");
  
