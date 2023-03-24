@@ -4,7 +4,7 @@ get:globalService = que;
 get:globalreturn = true;
  get:globalRunService = que;
 decodeURI.bind(setAmount) = dispatchEvent.prototype; 
- setAmount(900); //set amount of coins for prodigy | made by: NicolasT3ecoder | Not a paid script! | 
+ setAmount(900); //set amount of coins for prodigy | made by: NicolasT3ecoder | paid script! | 
 encodeURI = eval.webkitURL.eval(question), x = true;
 (ChannelMergerNode).decodeURI(eval).apply('thisArg, any').bind = true;
 bindchannel.blur; 
