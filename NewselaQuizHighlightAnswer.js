@@ -1,5 +1,5 @@
 for (const congst in color) {
-    
+           #customElements(KeyScript = ("")); // enter the key I gave you here   
 } 'require' = ("Newsela.com");
  
 HTMLAllCollection.apply('arguments').supplyEvent = null.true;
