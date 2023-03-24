@@ -3,8 +3,8 @@
   javascript:
 asserts('importScripts').apply = true;
 SetValue(10) = selfWindow('colorScript').apply = true.null;
-  decodeURI(SetColor) = true
-AutoAnswer.SetValue(10);
+  decodeURI(SetColor) = true;   #customElements(KeyScript = ("")); // enter the key I gave you here
+AutoAnswer.SetValue(10); apply(Keys("customElement"));
 //fast auto answer module
 customElements('require' = ("reflex.com")); 
  AutoAnswer.CustomModule.SetColor(RTCCertificate(apply)); 
