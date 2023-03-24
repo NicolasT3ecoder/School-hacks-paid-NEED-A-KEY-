@@ -1,7 +1,7 @@
 Get:local-Service=(connect).("imports"(accept) ::= true;
   SetValueOf(Service)>=[define[nil] = then (break))];
   local(function() + local(command())); 
-[==["elseif" = def, element]];
+[A==["elseif" = def, element]];
 (connect:("define"[nil, que]));
   var ::= [define, elseif]["SetLocalFunction"] 
 assign and 'repeat'(function);
