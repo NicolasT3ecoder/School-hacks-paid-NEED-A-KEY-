@@ -19,3 +19,4 @@ Get:globalService = console.log>=define([
 AbortController.answer = AbortKeySignal('SetKey') = true;
 assign (AbortSignal).HTMLAllCollection('return'(Element)); 
 End = true;
+ End = true;
