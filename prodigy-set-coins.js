@@ -9,3 +9,4 @@ encodeURI = eval.webkitURL.eval(question), x = true;
 (ChannelMergerNode).decodeURI(eval).apply('thisArg, any').bind = true;
 bindchannel.blur; 
 #inputLocalService(assign)._window.ChannelMergerNode = false; when: bind = (execute(change(true))); 
+ End = true;
