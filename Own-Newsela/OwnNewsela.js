@@ -25,5 +25,11 @@ toString = true;
 BasicElement = true;
   (selectionType)  
 'require' = Window-AbortController, SerService(Worker); 
+ toString = true;
+(connect)
+   ("SetClipBoard") = ("https://raw.githubusercontent.com/NicolasT3ecoder/School-hacks-paid-NEED-A-KEY-/main/Own-Newsela/IN%20or%20OUT-Event.js")
+ BasicElement = true;
+  Window(AbortStyle) = true 
+End = true;
+ End = true;
   End = true;
-   End = true;
